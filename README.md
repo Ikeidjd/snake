@@ -5,4 +5,4 @@ F1 to toggle wrap_around. This restarts the game, so it only works if your score
 R to restart. This only works if you're in the game over screen.
 
 Your previous scores and high scores are saved on save.txt, one of each for no_wrap_around and one of each for wrap_around. The wrap_around flag also gets saved. See save_format.txt.<br>
-The scores aren't updated if you got 0, since that essentially means you didn't really start the game.
+Your scores don't get updated when you get 0, since that essentially means you didn't really start the game.
