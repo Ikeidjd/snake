@@ -1,0 +1,2 @@
+--All of the fields are numbers. If save.txt is not found, the fields all default to 0. If a field is missing or can't be parsed as a number, it defaults to 0.
+prev_score_no_wrap_around high_score_no_wrap_around prev_score_wrap_around high_score_wrap_around wrap_around
